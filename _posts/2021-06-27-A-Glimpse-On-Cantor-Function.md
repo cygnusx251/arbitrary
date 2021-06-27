@@ -6,4 +6,5 @@ layout: post
 
 <p>From the construction of $\Delta$, we also have $x \in \Delta$, if and only if $x$ can be written as $\sum\limits_{n=1}^{\infty} \frac{a_n}{3^n}$, where each $a_n \in \{0,2\}$. With all these properties in mind, we define a correspondence between $\Delta$ and $[0,1]$ in the following section.</p>
 
-
+<h2>The Cantor Function</h2>
+<p><b>Definition :</b> <i>We define the Cantor function $f: \Delta \to [0,1]$ by \(f\left(\sum\limits_{n=1}^{\infty} \frac{2b_n}{3^n}\right)= \sum\limits_{n=1}^{\infty} \frac{b_n}{2^n} \qquad (b_n = 0, 1).\) i.e. \(f(0.a_1a_2a_3\ldots (\text{base } 3))=0.\frac{a_1}{2}\frac{a_2}{2}\frac{a_3}{2}\cdots (\text{base 2}) \qquad (a_n = 0, 2).\)</i></p>

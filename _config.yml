@@ -3,7 +3,7 @@ author:
   name: Saptarshi Dandapat
   email: saptarshirkmv@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  I am a second year Undergrad Student at Ramakrishna Mission Vidyamandira, Belur. This is my blog for various kind of mathematical problems, ideas and etc.. I will try to keep it updated. Thanks for watching.
+  A blog maintained by Saptarshi Dandapat.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -14,19 +14,19 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: 
+    github:  cygnusx251
     # devto: jekyll
     # dribbble: jekyll
-    # facebook: jekyll
+    facebook: saptarshi.dandapat
     # flickr:   jekyll
-    # instagram: jekyll
-    # linkedin: jekyll
+    instagram: saptarshi_dandapat
+    linkedin: saptarshi-dandapat
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
     # youtube_channel_name: CloudCannon
-    # telegram: jekyll
+    telegram: cygnusx251
     # googleplus: +jekyll
     # microdotblog: jekyll
     # keybase: jekyll
