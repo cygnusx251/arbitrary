@@ -18,7 +18,6 @@ layout: post
 </head>
 <body>
 <header id="title-block-header">
-<h1 class="title">On some explanation and intuition behind characteristic equation for finding general term of a linear recurrence relation with constant coefficients</h1>
 <p class="author">Saptarshi Dandapat</p>
 </header>
 <p>To start our study of linear recurrence relations with constant coefficients, we introduce an operator called "left-shift" operator.</p>
